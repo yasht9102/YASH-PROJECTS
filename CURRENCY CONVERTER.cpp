@@ -5,10 +5,6 @@ using namespace std;
 
 int new_option;
 
-
-
-// Function for operations in Currency Converter
-
 void currency_converter(){
 
     cout << "Available options for currency conversion are:" << endl;
@@ -21,13 +17,7 @@ void currency_converter(){
 
     cout << "\n";
 
-    /*
-
-        Take an appropriate option to select which operation
-
-        you want to be performed by the currency converter.
-
-    */
+    
 
    
 
@@ -45,7 +35,7 @@ void currency_converter(){
 
     {
 
-        // Case for Converting INR to USD(US Dollar)
+       
 
         case 1:
 
@@ -75,7 +65,7 @@ void currency_converter(){
 
        
 
-        // Case for Converting INR to EUR(Euro)
+        
 
         case 2:
 
@@ -105,7 +95,7 @@ void currency_converter(){
 
        
 
-        // Case for Converting INR to JPY(Japanese Yen)
+        
 
         case 3:
 
