@@ -1,11 +1,5 @@
 Welcome to the YASH_Projects Repository! This repository contains two projects developed in C++:
 
-Currency Converter
-ATM Machine
-
-Introduction
-This repository showcases two beginner-level projects implemented in C++. The goal is to provide practical examples of C++ programming, focusing on fundamental concepts like loops, conditionals, functions, and classes.
-
 Projects
 
 Currency Converter
