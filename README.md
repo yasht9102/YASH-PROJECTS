@@ -1,7 +1,4 @@
-Welcome to the YASH_Projects Repository! This repository contains two projects developed in C++:
+Welcome to the YASH_Projects Repository! 
 
-Projects
 
-Currency Converter
-ATM Machine
 
